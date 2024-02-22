@@ -71,5 +71,5 @@ Sales Data: The primary dataset used for this analysis is the 'Europe bike_sales
   ### References
 
   1. Excel for Businesses by Career Principles
-  2. [Stack-Overflow]
-  3. [Alex-the-Analyst]
+  2. [Stack Overflow](stack-overflow]
+  3. [Alex-the-Analyst](alex-the-analyst)
