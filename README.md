@@ -17,7 +17,6 @@
 This data analysis project aims to provide insights into the sales performance of Bikes all over Europe over the year. By analyzing various aspects of the sales data, we seek to identify trends, make data driven recommendations, and gain a deeper understanding of the bikes sales performance.
 
 ![Screenshot (9)](https://github.com/OgechukwuLily/Sales-analytic/assets/160866623/3926586a-969d-4651-802d-edc9eb625779)
-![Screenshot (9)](https://github.com/OgechukwuLily/Sales-analytic/assets/160866623/7b19cd4e-78e1-4b84-976a-9e9f15305524)
 
 ### Data sources
 
